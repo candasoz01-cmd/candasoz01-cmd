@@ -1,16 +1,44 @@
-## Hi there 👋
+# Kando
 
-<!--
-**candasoz01-cmd/candasoz01-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **Lumos** — an adaptive intelligence orchestration system focused on contextual memory, modular workflows, and secure AI interaction.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Context-aware orchestration systems
+- Persistent memory architecture
+- AI workflow infrastructure
+- Secure interaction layers
+- Modular AI tooling
+- Human-centered system design
+
+---
+
+## Lumos Ecosystem
+
+| Project | Description |
+|---|---|
+| `lumos-core` | Core orchestration and intelligence architecture |
+| `lumos-ui` | Interface and interaction layer |
+| `Lumos` | Experimental ecosystem repository |
+
+---
+
+## Open Source Status
+
+Some parts of the Lumos ecosystem are currently kept private during active development.
+
+The goal is to gradually open stable and production-ready components with:
+- clean architecture
+- proper documentation
+- contribution guidelines
+- modular public releases
+
+---
+
+## Philosophy
+
+Technology should assist human thinking — not replace it.
+
+Lumos is being designed as a structured intelligence layer that helps organize context, decisions, workflows, and interaction in a more adaptive way.
