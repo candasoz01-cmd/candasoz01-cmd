@@ -1,6 +1,6 @@
 # Kando
 
-Building **Lumos** — an adaptive intelligence orchestration and automation system focused on contextual memory, modular workflows, secure AI interaction, and adaptive automation.
+Building Lumos — an adaptive intelligence orchestration and automation system focused on contextual memory, modular workflows, and secure AI interaction.
 
 ---
 
